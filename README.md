@@ -92,7 +92,7 @@ A structured survey dataset (n = 250, population ≈ 2,500) was designed and ana
 - Executive-level communication  
 - KPI and performance framework design  
 
-## 🧠 Project Positioning
+## Project Positioning
 
 This project demonstrates the ability to design structured data, conduct rigorous statistical analysis, and translate findings into actionable commercial strategy.
 
